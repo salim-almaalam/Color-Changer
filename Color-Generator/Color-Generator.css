@@ -1,0 +1,14 @@
+body{
+    background-color: cyan;
+}
+
+.container{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.color1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 40px;
+}
